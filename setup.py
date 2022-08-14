@@ -7,9 +7,9 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '0.0.2'
+VERSION = '0.0.4'
 DESCRIPTION = 'Ankiz Test PIP Package'
-LONG_DESCRIPTION = 'Demo Package - to add , sub, mult, div two numbers. - version 0.0.2 - with init file'
+LONG_DESCRIPTION = 'Demo Package - to add , sub, mult, div two numbers. - version 0.0.3 - fixed init file again'
 
 # Setting up
 setup(
