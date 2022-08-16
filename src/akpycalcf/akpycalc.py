@@ -4,22 +4,11 @@
 #all the functions take two numbers as argument
 #creating addition function
 
-#class akpycalc1(object):
+#class akpycalc1:
 #    def __init__(self) -> None:
-#        pass
 
 def add(num1,num2):
     return num1+num2
 
-#creating subtraction function
-def sub(num1,num2):
-    return num1-num2 
 
-#creating multiplication function
-def mult(num1,num2):
-    return num1*num2
-
-
-#creating division function
-def div(num1,num2):
-    return num1/num2
+add()
